@@ -1,0 +1,1 @@
+실행-> 로컬디스크(c:)> Program Files> Java> jdk-21> bin  경로 복사-> 윈도우 키+r-> sysdm.cpi ,3 엔터-> 환경변수-> 새로 만들기(밑에 있는 거)-> 변수 이름:JAVA_HOME / 변수 값: 붙여넣기-> 확인-> 시스템 변수에 <Path> 클릭-> 편집-> 새로만들기-> %JAVA_HOME% 작성-> 확인-> 확인-> 윈도우 키+r-> cmd-> 확인-> java -version-> 자바 버전 확인
