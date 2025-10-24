@@ -5,7 +5,7 @@
 CRUD는 "무엇을 해야 하는가"를 정하고,  
 서비스 인터페이스는 "그 일을 어떻게 할 건지 설계하는 곳"
 
-쿼리-find로 시작(jpa책 p.546)
+쿼리-find(찾는 기능, 검색)로 시작(jpa책 p.546)
 ![[Pasted image 20251023152905.png]]
 ==이제 서비스는 무조건 클래스 말고 인터페이스==
 save(@PostMapping), update(@PutMapping), delete(@DeleteMapping), findById(@GetMapping), findAll(@GetMapping)가 기본 CRUD
