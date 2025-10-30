@@ -1,4 +1,6 @@
 {
   "newFileLocation": "root",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "autoPairMarkdown": false
 }
